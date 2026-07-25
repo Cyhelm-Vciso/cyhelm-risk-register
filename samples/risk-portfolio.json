@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Cloud administrator compromise",
+    "scenario": "A privileged cloud identity is compromised through phishing.",
+    "likelihood": 5,
+    "impact": 5,
+    "control_effectiveness": 20,
+    "owner": "CIO"
+  },
+  {
+    "title": "Backup recovery failure",
+    "scenario": "Backups cannot be restored during a destructive ransomware event.",
+    "likelihood": 3,
+    "impact": 5,
+    "control_effectiveness": 60,
+    "owner": "Head of Infrastructure"
+  }
+]
+
